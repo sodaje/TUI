@@ -1,0 +1,10 @@
+{
+  "name": "react-three-ui",
+  "workspaces": [
+    "demo/*",
+    "react-three-ui/*"
+  ],
+  "dependencies": {
+    "npm": "^10.0.0"
+  }
+}
